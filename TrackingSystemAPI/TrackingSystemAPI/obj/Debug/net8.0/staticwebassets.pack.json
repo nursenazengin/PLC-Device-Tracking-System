@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Nursena\\Desktop\\TrackingSystemAPI\\TrackingSystemAPI\\wwwroot\\uploads\\0031c6e3-9765-4b05-9531-e03469ac83e8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0031c6e3-9765-4b05-9531-e03469ac83e8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nursena\\Desktop\\TrackingSystemAPI\\TrackingSystemAPI\\wwwroot\\uploads\\0a605d50-a33c-41a3-acb0-d46afe5f01ab.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0a605d50-a33c-41a3-acb0-d46afe5f01ab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nursena\\Desktop\\TrackingSystemAPI\\TrackingSystemAPI\\wwwroot\\uploads\\0df239e7-7f6e-477d-934b-3b7053a169b6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0df239e7-7f6e-477d-934b-3b7053a169b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nursena\\Desktop\\TrackingSystemAPI\\TrackingSystemAPI\\wwwroot\\uploads\\4e8d12f5-10d4-4795-b1eb-4686c2ab0375.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4e8d12f5-10d4-4795-b1eb-4686c2ab0375.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nursena\\Desktop\\TrackingSystemAPI\\TrackingSystemAPI\\wwwroot\\uploads\\57234126-4fe7-4a18-93da-503940076e9c.jpg",
+      "PackagePath": "staticwebassets\\uploads\\57234126-4fe7-4a18-93da-503940076e9c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nursena\\Desktop\\TrackingSystemAPI\\TrackingSystemAPI\\wwwroot\\uploads\\5cd9d581-181d-486c-8ed2-554203158ddc.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5cd9d581-181d-486c-8ed2-554203158ddc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nursena\\Desktop\\TrackingSystemAPI\\TrackingSystemAPI\\wwwroot\\uploads\\611f0436-3c26-4043-a2a1-9d9f68b4c111.jpg",
+      "PackagePath": "staticwebassets\\uploads\\611f0436-3c26-4043-a2a1-9d9f68b4c111.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nursena\\Desktop\\TrackingSystemAPI\\TrackingSystemAPI\\wwwroot\\uploads\\9596f2d4-3a11-4d75-bdb1-101dd13d10c2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9596f2d4-3a11-4d75-bdb1-101dd13d10c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nursena\\Desktop\\TrackingSystemAPI\\TrackingSystemAPI\\wwwroot\\uploads\\adb89af0-9682-40af-89f5-722182b9b4f8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\adb89af0-9682-40af-89f5-722182b9b4f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nursena\\Desktop\\TrackingSystemAPI\\TrackingSystemAPI\\wwwroot\\uploads\\bb81b9b8-7c0f-4702-9c24-cb6f15e3d32f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\bb81b9b8-7c0f-4702-9c24-cb6f15e3d32f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nursena\\Desktop\\TrackingSystemAPI\\TrackingSystemAPI\\wwwroot\\uploads\\c6476202-35dc-41aa-8164-d19d2b7baf89.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c6476202-35dc-41aa-8164-d19d2b7baf89.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nursena\\Desktop\\TrackingSystemAPI\\TrackingSystemAPI\\wwwroot\\uploads\\c776a0c3-dfe1-4587-be0a-207d4f4fd579.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c776a0c3-dfe1-4587-be0a-207d4f4fd579.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nursena\\Desktop\\TrackingSystemAPI\\TrackingSystemAPI\\wwwroot\\uploads\\cd56f5ce-5c20-401f-8ffa-94e481738ed8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cd56f5ce-5c20-401f-8ffa-94e481738ed8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nursena\\Desktop\\TrackingSystemAPI\\TrackingSystemAPI\\wwwroot\\uploads\\e410ffd8-a3b5-4196-88f5-d3d54fae447a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e410ffd8-a3b5-4196-88f5-d3d54fae447a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nursena\\Desktop\\TrackingSystemAPI\\TrackingSystemAPI\\wwwroot\\uploads\\e9d69013-6a1e-4016-9553-b4e444275577.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e9d69013-6a1e-4016-9553-b4e444275577.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nursena\\Desktop\\TrackingSystemAPI\\TrackingSystemAPI\\wwwroot\\uploads\\ed42bd32-b22b-4ea0-babf-a955dc3cb430.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ed42bd32-b22b-4ea0-babf-a955dc3cb430.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TrackingSystemAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TrackingSystemAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TrackingSystemAPI.props",
+      "PackagePath": "build\\TrackingSystemAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TrackingSystemAPI.props",
+      "PackagePath": "buildMultiTargeting\\TrackingSystemAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TrackingSystemAPI.props",
+      "PackagePath": "buildTransitive\\TrackingSystemAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

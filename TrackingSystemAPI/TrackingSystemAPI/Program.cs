@@ -46,10 +46,10 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
-/*builder.Services.AddSingleton<TagDataService>();
+builder.Services.AddSingleton<TagDataService>();
 builder.Services.AddSingleton<EvaluateAlarmService>();
 builder.Services.AddSingleton<EvaluateEventService>();
-builder.Services.AddHostedService<MyBackgroundService>(); */
+builder.Services.AddHostedService<MyBackgroundService>(); 
 
 
 builder.Services.AddDbContext<AppDbContext>(options =>
